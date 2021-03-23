@@ -20,6 +20,10 @@ public class TimeCalculation {
             log.error("distance or speed <= 0");
             throw new NotFoundException("distance or speed less then 1");
         }
+        if(distance > 1000000000 || speed > 1000000000){
+            log.error("distance or speed so large");
+            throw new ServerErrorException("distance or speed more than we can process");
+        }
         double time = distance / speed;
         return time;
     }

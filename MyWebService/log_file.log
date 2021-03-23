@@ -1,0 +1,28 @@
+2021-03-23 13:04:56 DEBUG TimeCalculation:15 - Start of Main
+2021-03-23 13:04:58 DEBUG TimeCalculation:17 - End of Main
+2021-03-23 13:05:09 INFO  TimeCalculation:14 - Get Request param from URL
+2021-03-23 13:05:09 ERROR TimeCalculation:20 - distance or speed <= 0
+2021-03-23 13:05:24 INFO  TimeCalculation:14 - Get Request param from URL
+2021-03-23 13:05:24 ERROR TimeCalculation:20 - distance or speed <= 0
+2021-03-23 13:05:33 INFO  TimeCalculation:14 - Get Request param from URL
+2021-03-23 13:05:33 ERROR TimeCalculation:20 - distance or speed <= 0
+2021-03-23 13:05:39 INFO  TimeCalculation:14 - Get Request param from URL
+2021-03-23 13:05:39 INFO  TimeCalculation:17 - Return task answer
+2021-03-23 13:05:43 INFO  TimeCalculation:14 - Get Request param from URL
+2021-03-23 13:05:43 INFO  TimeCalculation:17 - Return task answer
+2021-03-23 13:09:31 DEBUG TimeCalculation:15 - Start of Main
+2021-03-23 13:09:33 DEBUG TimeCalculation:17 - End of Main
+2021-03-23 13:09:40 INFO  TimeCalculation:14 - Get Request param from URL
+2021-03-23 13:09:40 INFO  TimeCalculation:17 - Return task answer
+2021-03-23 13:10:57 DEBUG TimeCalculation:15 - Start of Main
+2021-03-23 13:10:58 DEBUG TimeCalculation:17 - End of Main
+2021-03-23 13:11:19 INFO  TimeCalculation:14 - Get Request param from URL
+2021-03-23 13:11:19 INFO  TimeCalculation:17 - Return task answer
+2021-03-23 13:11:35 INFO  TimeCalculation:14 - Get Request param from URL
+2021-03-23 13:11:35 INFO  TimeCalculation:17 - Return task answer
+2021-03-23 13:18:54 DEBUG TimeCalculation:15 - Start of Main
+2021-03-23 13:18:56 DEBUG TimeCalculation:17 - End of Main
+2021-03-23 13:19:11 INFO  TimeCalculation:14 - Get Request param from URL
+2021-03-23 13:19:11 INFO  TimeCalculation:17 - Return task answer
+2021-03-23 13:19:27 INFO  TimeCalculation:14 - Get Request param from URL
+2021-03-23 13:19:27 ERROR TimeCalculation:24 - distance or speed so large

@@ -10,7 +10,7 @@ public class MyTest {
     @Test
     public void simpleLogicTest1() throws NotFoundException, ServerErrorException {
         double time = TimeCalculation.calculateTime(88, 10);
-        Assert.assertEquals(8.80, time);
+        Assert.assertEquals(8.8, time, 0.01);
     }
 
     @Test
