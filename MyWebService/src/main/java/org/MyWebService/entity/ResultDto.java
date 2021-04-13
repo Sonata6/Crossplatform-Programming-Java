@@ -1,4 +1,4 @@
-package org.MyWebService;
+package org.MyWebService.entity;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class ResultDto {

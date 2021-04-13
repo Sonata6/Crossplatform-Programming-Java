@@ -1,4 +1,4 @@
-package org.MyWebService;
+package org.MyWebService.exception;
 
 
 import org.springframework.http.HttpStatus;
