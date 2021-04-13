@@ -1,1 +1,11 @@
-/target/
+# IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# maven
+target/
+
+# app
+logs
