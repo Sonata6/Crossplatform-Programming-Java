@@ -1,4 +1,4 @@
-package org.MyWebService.exception;
+package org.mywebservice.exception;
 
 
 import org.springframework.http.HttpStatus;
@@ -16,6 +16,10 @@ public class ServerErrorException extends Exception {
 
     public ServerErrorException(Throwable cause) {
         super(cause);
+    }
+
+    public ServerErrorException() {
+        super();
     }
 
     public ServerErrorException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {

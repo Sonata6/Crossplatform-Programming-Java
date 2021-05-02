@@ -1,6 +1,6 @@
-package org.MyWebService;
+package org.mywebservice.application;
 
-import org.MyWebService.action.Calculator.TimeCalculation;
+import org.mywebservice.service.TimeCalculationService;
 import org.apache.log4j.Logger;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Application {
 
-    private static final Logger log = Logger.getLogger(TimeCalculation.class);
+    private static final Logger log = Logger.getLogger(TimeCalculationService.class);
 
 
     public static void main(String[] args) {

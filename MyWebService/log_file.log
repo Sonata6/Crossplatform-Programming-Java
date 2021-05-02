@@ -30,3 +30,28 @@
 2021-04-13 13:05:13 INFO  TimeCalculation:11 - time: 8.8
 2021-04-13 13:09:23 INFO  TimeCalculation:11 - time: 8.8
 2021-04-13 13:09:23 INFO  TimeCalculation:11 - time: 8.8
+2021-04-13 13:21:15 DEBUG TimeCalculation:16 - Start of Main
+2021-04-13 13:21:17 DEBUG TimeCalculation:18 - End of Main
+2021-04-13 13:21:35 INFO  TimeCalculation:17 - Get Request param from URL
+2021-04-13 13:21:35 INFO  TimeCalculation:11 - time: 12.0
+2021-04-13 13:21:35 INFO  TimeCalculation:20 - Return task answer
+2021-04-22 19:36:27 DEBUG TimeCalculation:16 - Start of Main
+2021-04-22 19:36:28 DEBUG TimeCalculation:18 - End of Main
+2021-04-22 19:36:34 INFO  TimeCalculation:25 - Get Request param from URL
+2021-04-22 19:36:34 INFO  TimeCalculation:11 - time: 12.0
+2021-04-22 19:36:34 INFO  TimeCalculation:28 - Return task answer
+2021-04-28 10:50:55 INFO  TimeCalculationService:33 - time: org.mywebservice.entity.TimeDto@29ba4338
+2021-04-28 10:50:56 INFO  TimeCache:52 - putting calculated value in cache
+2021-04-28 10:50:56 INFO  TimeCalculationService:33 - time: org.mywebservice.entity.TimeDto@2145433b
+2021-04-28 10:50:56 INFO  TimeCache:52 - putting calculated value in cache
+2021-04-28 10:54:02 DEBUG TimeCalculationService:16 - Start of Main
+2021-04-28 20:15:13 INFO  TimeCalculationService:32 - time: org.mywebservice.entity.TimeDto@29ba4338
+2021-04-28 20:15:13 INFO  TimeCache:50 - putting calculated value in cache
+2021-04-28 20:15:13 INFO  TimeCalculationService:32 - time: org.mywebservice.entity.TimeDto@2145433b
+2021-04-28 20:15:13 INFO  TimeCache:50 - putting calculated value in cache
+2021-04-28 20:15:53 INFO  TimeCalculationService:32 - time: org.mywebservice.entity.TimeDto@12d3a4e9
+2021-04-28 20:15:53 INFO  TimeCache:50 - putting calculated value in cache
+2021-04-28 20:16:08 INFO  TimeCalculationService:32 - time: org.mywebservice.entity.TimeDto@44a664f2
+2021-04-28 20:16:08 INFO  TimeCache:50 - putting calculated value in cache
+2021-04-28 20:16:17 INFO  TimeCalculationService:32 - time: org.mywebservice.entity.TimeDto@12d3a4e9
+2021-04-28 20:16:18 INFO  TimeCache:50 - putting calculated value in cache

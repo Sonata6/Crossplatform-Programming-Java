@@ -1,4 +1,4 @@
-package org.MyWebService.exception;
+package org.mywebservice.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;
@@ -16,6 +16,10 @@ public class BadRequestException extends Exception {
 
     public BadRequestException(Throwable cause) {
         super(cause);
+    }
+
+    public BadRequestException() {
+        super();
     }
 
     public BadRequestException(String message, Throwable cause, boolean enableSuppression, boolean writableStackTrace) {
