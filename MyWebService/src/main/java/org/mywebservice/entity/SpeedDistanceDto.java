@@ -2,7 +2,7 @@ package org.mywebservice.entity;
 
 import java.util.Objects;
 
-public class SpeedDistanceDto {
+public class SpeedDistanceDto { 
 
     private int speed;
     private int distance;
